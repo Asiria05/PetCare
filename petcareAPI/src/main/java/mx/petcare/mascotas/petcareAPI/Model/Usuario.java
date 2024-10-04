@@ -66,12 +66,4 @@ public class Usuario {
                phoneNumber + " :: " +
                password; 
     }   
-    
-  
-
-    
-    
-
-
-
 }
